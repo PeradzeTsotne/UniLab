@@ -1,0 +1,152 @@
+h2 {
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+p {
+    font-family: "BPG Ingiri Arial", sans-serif;
+
+}
+
+.nav-box {
+    margin: 30px;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.nav-bar {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header,
+nav {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.nav-box ul {
+    margin-left: 44px;
+}
+
+.nav-box ul li {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #3d58a6;
+    font-size: 22px;
+
+}
+
+#Newses a {
+    color: #ee4036;
+}
+
+/* News */
+.box-1,
+.box-2,
+.box-3,
+.box-4 {
+    margin-left: 30px;
+}
+
+article {
+    margin-left: 30px;
+}
+
+.Num {
+    width: 52px;
+    height: 64px;
+    background-color: rgb(53, 85, 187);
+    font-size: 48px;
+    color: #ffffff;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+p.Month {
+    display: inline-block;
+    vertical-align: bottom;
+    color: #3D58A6;
+    font-size: 22px;
+    width: 63px;
+    height: 30px;
+    margin-left: 20px;
+
+}
+
+article h2 {
+    font-size: 20px;
+    margin-top: 60px;
+    color: #000000;
+
+}
+
+.box-1 img {
+    width: 270px;
+    height: 210px;
+    margin-top: 25px;
+}
+
+.box-2 img {
+    width: 270px;
+    height: 210px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 60px;
+    position: relative;
+    top: 50px;
+}
+
+.box-3 img {
+    width: 270px;
+    height: 210px;
+    margin-top: 25px;
+}
+
+.box-4 img {
+    width: 270px;
+    height: 210px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 60px;
+    position: relative;
+    top: 50px;
+}
+
+
+.texts {
+    display: inline-block;
+    vertical-align: top;
+    width: 930px;
+    height: 360px;
+    margin-left: 33px;
+}
+
+
+
+.texts p {
+    margin-top: 30px;
+}
+
+.texts2 {
+    width: 930px;
+    height: 360px;
+    margin-top: 25px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.texts2 p {
+    margin-top: 30px;
+}

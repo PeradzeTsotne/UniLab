@@ -1,0 +1,98 @@
+.nav-box {
+    margin: 30px;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.nav-bar {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header,
+nav {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.nav-box ul {
+    margin-left: 44px;
+}
+
+.nav-box ul li {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #3d58a6;
+    font-size: 22px;
+
+}
+
+#contact a {
+    color: #ee4036;
+}
+
+/* contact info */
+.container {
+    width: 1366px;
+    height: 570px;
+    background-color: #e6e6e6;
+    margin-top: 20px;
+}
+
+.contactinfo {
+    text-align: left;
+    margin-top: 115px;
+    margin-left: 83px;
+    width: 261px;
+    height: 98px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.info {
+    font-size: 20px;
+    color: #3D58A6;
+}
+
+span {
+    font-size: 16px;
+    color: #808080;
+}
+
+.map {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 54px;
+    margin-right: 90px;
+    margin-top: 52px;
+}
+
+/* footer */
+.logos {
+    margin: 35px 0 28px 108px;
+}
+
+footer .fb {
+    width: 14px;
+    height: 30px;
+    border-right: 2px solid blue;
+    padding-right: 40px;
+
+}
+
+footer .youtube {
+    width: 24.81px;
+    height: 30px;
+    margin-left: 40px;
+}

@@ -1,0 +1,167 @@
+.nav-box {
+    margin: 30px;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.nav-bar {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header,
+nav {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.nav-box ul {
+    margin-left: 44px;
+}
+
+.nav-box ul li {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #3d58a6;
+    font-size: 22px;
+
+}
+
+#Home a {
+    color: #ee4036;
+}
+
+/* Banner */
+.banner-box {
+    margin: 94px 98px;
+}
+
+.banner-box img {
+    width: 1170px;
+    height: 460px;
+}
+
+.texts {
+    position: absolute;
+    top: 230px;
+    left: 100px;
+    color: white;
+    padding-left: 50px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+.texts p {
+    margin: 3px;
+}
+
+.texts span {
+    font-weight: bold;
+}
+
+/* Boxes */
+.box1 {
+    display: inline-block;
+    margin-left: 98px;
+    margin-top: 109px;
+
+}
+
+.box2 {
+    display: inline-block;
+    margin-left: 29px;
+
+}
+
+.box1 h2 {
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+}
+
+.post1,
+.post2 {
+    display: inline-block;
+    vertical-align: top;
+    width: 570px;
+    height: 225px;
+    background-color: #F2F2F2;
+}
+
+.post1 h3 {
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 12px;
+    margin-left: 19px;
+    color: #3D58A6;
+}
+
+.post1 img {
+    margin: 15px 37px;
+    width: 103px;
+    height: 145px;
+}
+
+.post1 p {
+    margin-top: 50px;
+    width: 355px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    font-family: Roboto, sans-serif;
+
+}
+
+.post2 h3 {
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 12px;
+    margin-left: 19px;
+    color: #3D58A6;
+}
+
+.post2 img {
+    margin: 15px 37px;
+    width: 103px;
+    height: 145px;
+}
+
+.post2 p {
+    margin-top: 50px;
+    width: 355px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    font-family: Roboto, sans-serif;
+
+}
+
+/* Footer */
+.logos {
+    margin-top: 68px;
+    margin-left: 108px;
+}
+
+footer .fb {
+    width: 14px;
+    height: 30px;
+    border-right: 2px solid blue;
+    padding-right: 40px;
+
+}
+
+footer .youtube {
+    width: 24.81px;
+    height: 30px;
+    margin-left: 40px;
+}
